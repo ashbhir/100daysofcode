@@ -28,6 +28,10 @@
 - Read SurviveJS book on Advanced Webpack
 - Fork and play around with 2-3 webpack plugins. TODO: be more specific
 
+### Miscellaneous 
+- Read Git book
+- Read the book `HTTP: definitive guide`
+
 ## Blog
 - Create my own blog based on gatsby. Learn GraphQL + Serverless + E2E Tests
 - Try out the Workflow - Balasmiq -> Sketch -> FramerJS for prototyping. 
@@ -43,6 +47,11 @@
 - Read the book `Designing Data-Intensive Applications`
 - Revise and study about all the NoSQL databases - MongoDB, Casandra, Redis, ElasticSearch
 - Learn about PostgreSQL and make complicated queries
+
+## Python for Scripting
+
+## Design/ UX
+- Read the book `Design of Everyday things`
 
 ## Blockchain
 - Revise Preeti Kasireddy's blog on medium
