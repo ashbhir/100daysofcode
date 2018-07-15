@@ -6,8 +6,8 @@
 - Read Canvas section of the book [Eloquent Javascript](http://eloquentjavascript.net/17_canvas.html)
 - Fork and play around with 2-3 canvas games from codepen.io
 - Take the [HTML5 Game course](https://www.udemy.com/html5-game-development-beginner-to-pro/) from Udemy
-- Take the [GameMaker Studio course](https://www.udemy.com/platformer/) from Udemy
 - Participate in the [js13kgames](http://js13kgames.com/) challenge
+- Take the [GameMaker Studio course](https://www.udemy.com/platformer/) from Udemy
 
 ### CSS
 - Watch all [Lea Verou conf videos](https://www.youtube.com/watch?v=eVnUDTtOLE0&list=PLB50ywF0EjpYyIIxul37fGrhKhKM1i1h7)
@@ -20,9 +20,9 @@
 - Read Addy Osmani's [JS Design Patterns book](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - Take Wes Bos's [JS30 course](https://javascript30.com/)
 - Read Kyle Simpson's [Functional-lite JS book](https://github.com/getify/Functional-Light-JS/)
-- Read Kyle Simpson's [You Don't Know JS series] (https://github.com/getify/You-Dont-Know-JS/)
 - Read [Eric Elliott's blog](https://medium.com/javascript-scene/archive) on medium
 - Read Session stack's [JS articles on medium](https://blog.sessionstack.com/)
+- Read Kyle Simpson's [You Don't Know JS series] (https://github.com/getify/You-Dont-Know-JS/)
 
 ### React/ Redux
 - Fork and play around with 2-3 open source projects. TODO: be more specific
