@@ -7,14 +7,14 @@
 - Fork and play around with 2-3 canvas games from codepen.io
 - Take the [HTML5 Game course](https://www.udemy.com/html5-game-development-beginner-to-pro/) from Udemy
 - Participate in the [js13kgames](http://js13kgames.com/) challenge
-- Take the [GameMaker Studio course](https://www.udemy.com/platformer/) from Udemy
+- MAYBE LATER Take the [GameMaker Studio course](https://www.udemy.com/platformer/) from Udemy
 
 ### CSS
 - Watch all [Lea Verou conf videos](https://www.youtube.com/watch?v=eVnUDTtOLE0&list=PLB50ywF0EjpYyIIxul37fGrhKhKM1i1h7)
 - Read Lea Verou's book [CSS secrets](http://shop.oreilly.com/product/0636920031123.do)
-- Read [Shay Howe's blog](https://learn.shayhowe.com/advanced-html-css/?utm_source=tuicool) on advanced CSS section
 - Take [CSS advanced course](https://www.udemy.com/advanced-css-and-sass/) from udemy to learn about CSS grids, flexbox, responsive css
 - Fork and play around with 2-3 cool CSS widgets on codepen.io
+- MAYBE LATER Read [Shay Howe's blog](https://learn.shayhowe.com/advanced-html-css/?utm_source=tuicool) on advanced CSS section
 
 ### Javascript
 - Read Addy Osmani's [JS Design Patterns book](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -22,10 +22,10 @@
 - Read Kyle Simpson's [Functional-lite JS book](https://github.com/getify/Functional-Light-JS/)
 - Read [Eric Elliott's blog](https://medium.com/javascript-scene/archive) on medium
 - Read Session stack's [JS articles on medium](https://blog.sessionstack.com/)
-- Read Kyle Simpson's [You Don't Know JS series] (https://github.com/getify/You-Dont-Know-JS/)
+- MAYBE LATER Read Kyle Simpson's [You Don't Know JS series] (https://github.com/getify/You-Dont-Know-JS/)
 
 ### React/ Redux
-- Fork and play around with 2-3 open source projects. TODO: be more specific
+- Fork and play around with 2-3 open source projects like React, React-Slick, React-Canvas, styled-components etc.
 
 ### Webpack
 - Read SurviveJS book on [Advanced Webpack](https://github.com/survivejs/webpack-book)
@@ -40,6 +40,8 @@
 - Create my own blog based on gatsby. Learn GraphQL + Serverless + E2E Tests
 - Try out the Workflow - Balasmiq -> Sketch -> FramerJS for prototyping. 
 - Write about my own collection of cool CSS widgets/ canvas games/ open source react projects/ webpack plugins
+
+MAYBE LATER
 
 ## NodeJS
 - Read the [NodeJS Design Patterns book](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
